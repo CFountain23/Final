@@ -1,0 +1,41 @@
+/* Styles for the Elements*/
+li{
+    display: inline;
+    text-align: center;
+}
+div{
+    float: top;
+}
+body{
+    background-color: gray;
+}
+footer{
+    position: fixed;
+    float: bottom;
+    left: 0;
+    bottom: 0;
+    height: 5%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+footer p{
+    font-size: 50%;
+}
+/* Styles for the Header*/
+.navbar{
+
+}
+head title{
+    text-align: center;
+}
+.carousel-inner img {
+    margin: auto;
+}
+
+.card img{
+    height: 10rem;
+}
+/* Styles for the Section*/
+/* Styles for the Footer*/
